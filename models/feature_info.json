@@ -1,0 +1,29 @@
+{
+  "numeric_features": [
+    "squareMeters",
+    "numberOfRooms",
+    "hasYard",
+    "hasPool",
+    "floors",
+    "cityCode",
+    "cityPartRange",
+    "numPrevOwners",
+    "made",
+    "isNewBuilt",
+    "hasStormProtector",
+    "basement",
+    "attic",
+    "garage",
+    "hasStorageRoom",
+    "hasGuestRoom"
+  ],
+  "categorical_features": [],
+  "binary_features": [
+    "hasYard",
+    "hasPool",
+    "isNewBuilt",
+    "hasStormProtector",
+    "hasStorageRoom"
+  ],
+  "target": "price"
+}
